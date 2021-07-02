@@ -6,14 +6,13 @@
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
+		<script src="//code.jquery.com/jquery.min.js"></script>
+		<script>
+		$.get("nav.html", function(data){
+			$("#nav-placeholder").replaceWith(data);
+		});
+		</script>
+		
 		<div class="container">
     		<div class="blurb">
         		<h1>Hi this is R3DR4NP4.</h1>
