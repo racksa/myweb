@@ -2,6 +2,7 @@
 <html>
 	
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
 	<!--Header-->
 	<div id="head-placeholder">
 
@@ -15,7 +16,6 @@
 	<!--end of Header-->
 
 	<body>
-
 		<!--Navigation bar-->
 		<div id="nav-placeholder">
 
@@ -51,11 +51,18 @@
 
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
-		<footer>
-			This page is last updated on 02/07/2021.
-    		<ul>
-        		<li><a href="https://github.com/racksa">github.com/racksa</a></li>
-			</ul>
-		</footer>
+
+		<!--Footer-->
+		<div id="footer-placeholder">
+
+		</div>
+
+		<script>
+		$(function(){
+		$("#footer-placeholder").load("footer.html");
+		});
+		</script>
+		<!--Footer-->
+		
 	</body>
 </html>

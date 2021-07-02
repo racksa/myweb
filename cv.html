@@ -1,18 +1,33 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>R3DR4NP4</title>
-        <!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
+	
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	
+	<!--Header-->
+	<div id="head-placeholder">
+
+	</div>
+
+	<script>
+	$(function(){
+	$("#head-placeholder").load("head.html");
+	});
+	</script>
+	<!--end of Header-->
+
 	<body>
-		<script src="//code.jquery.com/jquery.min.js"></script>
+		<!--Navigation bar-->
+		<div id="nav-placeholder">
+
+		</div>
+
 		<script>
-		$.get("nav.html", function(data){
-			$("#nav-placeholder").replaceWith(data);
+		$(function(){
+		$("#nav-placeholder").load("nav.html");
 		});
 		</script>
-		
+		<!--end of Navigation bar-->
+
 		<div class="container">
     		<div class="blurb">
         		2016-2019<h3>BSc in Physics with Theoretical Physics, Imperial College</h3>
@@ -21,10 +36,16 @@
                 2021-present<h3>PhD in Applied Mathematics, Imperial College</h3>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
-		<footer>
-    		<ul>
-        		<li><a href="https://github.com/racksa">github.com/racksa</a></li>
-			</ul>
-		</footer>
+		<!--Footer-->
+		<div id="footer-placeholder">
+
+		</div>
+
+		<script>
+		$(function(){
+		$("#footer-placeholder").load("footer.html");
+		});
+		</script>
+		<!--Footer-->
 	</body>
 </html>
