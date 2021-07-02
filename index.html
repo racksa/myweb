@@ -4,14 +4,20 @@
 		<title>R3DR4NP4</title>
         <!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	</head>
 	<body>
-		<script src="//code.jquery.com/jquery.min.js"></script>
+		<!--Navigation bar-->
+		<div id="nav-placeholder">
+
+		</div>
+
 		<script>
-		$.get("nav.html", function(data){
-			$("#nav-placeholder").replaceWith(data);
+		$(function(){
+		$("#nav-placeholder").load("nav.html");
 		});
 		</script>
+		<!--end of Navigation bar-->
 		
 		<div class="container">
     		<div class="blurb">
