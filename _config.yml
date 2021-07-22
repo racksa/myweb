@@ -21,9 +21,9 @@
 title: R3DP4ND4
 email: racksa10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I set up this page when doing my PhD at Imperial College. 
+  I set up this page when doing my PhD at Imperial College.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "127.0.0.1" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  racksa
 
