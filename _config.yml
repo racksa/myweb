@@ -27,8 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  racksa
 
 # Build settings
-# remote_theme: vszhub/not-pure-poole
-theme: minima
+remote_theme: racksa/jekyll-theme-racksa
+# theme: minima
 plugins:
   - jekyll-gist
   - jekyll-feed
