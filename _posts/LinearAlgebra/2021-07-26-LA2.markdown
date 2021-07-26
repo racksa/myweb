@@ -3,9 +3,10 @@ layout: post
 title:  "Linear Algebra 2: Use LA to impress your girl"
 categories: linear algebra
 ---
+My own written Linear Algebra notes, which should be comprehensive even for pre-uni students - if not, it was all my fault and I should have done it better. Through these notes, I aim to tell you why linear algebra is important, and how to apply linear algebra to do fun staff. Every note starts with a meaningful question, and I will set up the mathematical model step by step. At the end, I will show you how a real problem collapses into a linear algebra problem!
 
-<embed src="/pdf/linearAlgebra2.pdf" type="application/pdf" width="800em" height="800em" />
-
-[Linear Algebra 1: Electric charge problem.](https://github.com/racksa/myLA/blob/main/linearAlgebra1.pdf)
+I hope you find them fun, and I will be grateful if you can give me any suggestions. Enjoy!
 
 [Linear Algebra 2: Use LA to impress your girl.](https://github.com/racksa/myLA/blob/main/linearAlgebra2.pdf)
+
+<embed src="/pdf/linearAlgebra2.pdf" type="application/pdf" width="800em" height="800em" />

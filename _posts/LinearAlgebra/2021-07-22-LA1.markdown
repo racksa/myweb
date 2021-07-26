@@ -9,8 +9,6 @@ My own written Linear Algebra notes, which should be comprehensive even for pre-
 
 I hope you find them fun, and I will be grateful if you can give me any suggestions. Enjoy!
 
-<embed src="/pdf/linearAlgebra1.pdf" type="application/pdf" width="800em" height="800em" />
-
 [Linear Algebra 1: Electric charge problem.](https://github.com/racksa/myLA/blob/main/linearAlgebra1.pdf)
 
-[Linear Algebra 2: Use LA to impress your girl.](https://github.com/racksa/myLA/blob/main/linearAlgebra2.pdf)
+<embed src="/pdf/linearAlgebra1.pdf" type="application/pdf" width="800em" height="800em" />
