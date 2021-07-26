@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Linear Algebra 2: Use LA to impress your girl"
+categories: linear algebra
+---
+
+<embed src="/pdf/linearAlgebra2.pdf" type="application/pdf" width="800em" height="800em" />
+
+[Linear Algebra 1: Electric charge problem.](https://github.com/racksa/myLA/blob/main/linearAlgebra1.pdf)
+
+[Linear Algebra 2: Use LA to impress your girl.](https://github.com/racksa/myLA/blob/main/linearAlgebra2.pdf)

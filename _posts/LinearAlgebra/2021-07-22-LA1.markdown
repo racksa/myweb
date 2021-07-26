@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "LinearAlgebra"
+title:  "Linear Algebra 1: Electric charge problem"
 date:   2021-07-22 11:56:28 +0800
-categories: jekyll update
+categories: linear algebra
 ---
 
 My own written Linear Algebra notes, which should be comprehensive even for pre-uni students - if not, it was all my fault and I should have done it better. Through these notes, I aim to tell you why linear algebra is important, and how to apply linear algebra to do fun staff. Every note starts with a meaningful question, and I will set up the mathematical model step by step. At the end, I will show you how a real problem collapses into a linear algebra problem!
 
-<!-- These notes are not textbooks, and most of them do not teach you how to solve a matrix problem! Instead, they show you the scenarios when linear algebra is involved. -->
-
 I hope you find them fun, and I will be grateful if you can give me any suggestions. Enjoy!
+
+<embed src="/pdf/linearAlgebra1.pdf" type="application/pdf" width="800em" height="800em" />
 
 [Linear Algebra 1: Electric charge problem.](https://github.com/racksa/myLA/blob/main/linearAlgebra1.pdf)
 
