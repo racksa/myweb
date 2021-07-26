@@ -8,3 +8,4 @@ categories: jekyll update
 My own LA note for pre-uni students.
 
 [Linear Algebra 1](https://github.com/racksa/myLA/blob/main/linearAlgebra1.pdf)
+[Linear Algebra 2](https://github.com/racksa/myLA/blob/main/linearAlgebra2.pdf)
