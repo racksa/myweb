@@ -18,3 +18,5 @@ Below are pictures from my MSc thesis and hopefully they give you an intuition o
 <br>
 
 <img src="/pic/ciliary.png" alt="ciliary" width="200"> <img src="/pic/oblique.png" alt="oblique" width="400">
+
+You can download a copy of my [MSc Thesis](/pdf/msc.pdf) here.

@@ -22,7 +22,7 @@ title: R3DP4ND4 NEST
 author: R3DP4ND4
 email: hangsuu10@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Last updated: 26/07/2021
+  Last updated: 27/07/2021
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  racksa
