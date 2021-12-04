@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Reading Feynman's 'What do you care what other people think'"
+categories: phd
+---
+blah blah
+
