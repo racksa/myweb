@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "High school, Chinese literature"
+title:  "High school, Chinese literature + me"
 categories: phd
 ---
 
