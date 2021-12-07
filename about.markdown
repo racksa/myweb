@@ -4,9 +4,17 @@ title: About the author
 permalink: /about/
 ---
 
-This site is a profile of a research student at Imperial College. In summary, the master of this site grew up in a small town onshore in southwestern China. He claims that he learned talking before walking. At the age of two, he started playing PAL98 on a WINDOWS98 OS, the first ever game in his life. In primary school finishing years, he was no longer satisifed being just a gamer, and instead he was eager to create his own game. He then taught himself programming. After Internet emerged, he began participating on BBS forums, where he published several Age of Empires II custom campaigns. As he progressed as a computer user, he became bothered by his incompetence of explaining how those mysterious electronic components produce animated Genghis Khan and his troop on the screen. He could not resist the desire of knowledge, and the curiosity lured him into the scientific world eventually. By the end of middle school he was fascinated by how the science he learned helped him with his developments of 'carbon dioxide bottle cap lanucher', 'pesticide sprayer flamethrower', and so on... After completing middle school, he met his first girl on the summer camp train to Beijing. He captured her heart by demonstrating the binary and decimal conversion of a number, and solving Hanoi tower problem by recursion. In high school, he continued to persue a science career, and was the best in scientific subjects, but also the worst in Chinese. The latter became one of the reasons why he moved to the UK and changed the trajectory of his life completely.
+This site is the profile of a science research student at Imperial College. It could be his book reviews, research or whatever he finds fun that he will post here. This site also serves as a sanctuary which protects the master from all the dazzling social apps while still preserves his existence in the cyberspace.
 
-It could be book reviews, his research or anything else in his life that he will post on this site.
+In summary, the master of this site grew up in a small town onshore in southwestern China. He claims that he learned talking before walking. At the age of two, he started his career as a gamer with his first ever PC game PAL98 played on a WINDOWS98 OS. Closing to the end of primary school, he was no longer satisifed being just a gamer, and instead he was eager to create his own. He then taught himself computing. After Internet emerged, he began participating on BBS forums, where he published several custom campaigns on Age of Empires II. As he became an experienced PC user, he started to feel bothered by his incompetence of explaining how those mysterious electronic components produce animated Genghis Khan and his troop on the screen. The curiosity lured him into the scientific world eventually. By the end of middle school he was fascinated by how the science he learned helped him with his developments of 'carbon dioxide bottle cap lanucher', 'pesticide sprayer flamethrower' and so on... After completing middle school, he met his first girl on the summer camp train to Beijing. He captured her heart by demonstrating the binary and decimal conversion of a number, and how to solve the Hanoi tower problem by recursion. In high school, he was the best in scientific subjects, but also very terrible in Chinese. The latter became one but not the only reason why he moved to the UK and changed the trajectory of his life completely.
+
+
+
+
+ 
+  
+
+
 
 
 <!-- 
